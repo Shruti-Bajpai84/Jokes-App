@@ -1,0 +1,15 @@
+.joke-button{
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px dotted red;
+    margin: auto;
+    margin-top: 10px;
+}
+.joke{
+    border-radius: 10px;
+    padding: 20px;
+    border: 2px dotted red;
+}
+h1{
+    color: blue;
+}
